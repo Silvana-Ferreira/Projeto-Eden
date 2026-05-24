@@ -1,2 +1,2 @@
 # Projeto-Eden
-Projeto Extensionista II - Eden - Educational Enviroment - A sua rede social escolar
+Projeto Extensionista II - Eden - Educational Environment - A sua rede social escolar
